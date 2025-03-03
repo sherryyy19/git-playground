@@ -3,7 +3,7 @@
 Basic for Git
 
 ## Git commands
-- Check status git status
+- Check status `git status`
 
 - Check all branches git branch -a
 
