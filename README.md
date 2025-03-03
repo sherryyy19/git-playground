@@ -17,14 +17,14 @@ Basic for Git
 
 - Stage-specific file: `git add <file_name>`
 
-- Commit local changes git commit -m "update README.md"
+- Commit local changes: `git commit -m "update README.md"`
 
-- Push local changes git push
+- Push local changes: `git push`
 
-- Pull remote changes git pull
+- Pull remote changes: `git pull`
 
-- Merge changes from parent to child branch git merge parent_branch
+- Merge changes from parent to child branch: `git merge <parent_branch>`
 
-- Merge changes from child branch into parent branch git merge child_branch
+- Merge changes from child branch into parent branch: `git merge <child_branch>`
 
-- Create branch and checkout at the same time git checkout -b branch_name
+- Create branch and checkout at the same time: `git checkout -b <branch_name>`
