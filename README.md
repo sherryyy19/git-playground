@@ -52,4 +52,5 @@ Basic for Git
   `git merge <child_branch>`
 
 - Create branch and checkout at the same time:
+  
   `git checkout -b <branch_name>`
