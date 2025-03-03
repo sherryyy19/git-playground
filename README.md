@@ -3,19 +3,19 @@
 Basic for Git
 
 ## Git commands
-- Check status `git status`
+- Check the status: `git status`
 
-- Check all branches git branch -a
+- Check all branches: `git branch -a`
 
-- Check current branch git branch
+- Check the current branch: `git branch`
 
-- Create new branch git branch branch_name
+- Create a new branch: `git branch <branch_name>`
 
-- Switch required branch git checkout branch_name
+- Switch required branch: `git checkout <branch_name>`
 
-- Stage all the changes git add .
+- Stage all the changes: `git add .`
 
-- Stage specific file git add file_name
+- Stage-specific file: `git add <file_name>`
 
 - Commit local changes git commit -m "update README.md"
 
